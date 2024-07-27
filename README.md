@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo integrar tres componentes fundamentales de la 
 **Bot de discord**,
 **Inteligencia artificial interactiva**
 # Tecnologías utilizadas para la creación del proyecto
-**Python**
-**Discord** creación de Bot,
-**Python Anywhere** Desplegar la página web (https://www.pythonanywhere.com/),
-**Teachable Machine** Creación del modelo de inteligencia artificial (IA). (https://teachablemachine.withgoogle.com/)
+**Python**,
+**Discord** (creación de Bot),
+**Python Anywhere** (Desplegar la página web https://www.pythonanywhere.com/),
+**Teachable Machine** (Creación del modelo de inteligencia artificial (IA). https://teachablemachine.withgoogle.com/)
