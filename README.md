@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo integrar tres componentes fundamentales de la 
 # Funciones 
 **pagina web interactiva**,
 **bot de discord**,
-**inteligencia artificial interactiva**,
+**inteligencia artificial interactiva**
 # Tecnologías utilizadas para la creación del proyecto
 **Python**
 **Discord** creación de Bot,
